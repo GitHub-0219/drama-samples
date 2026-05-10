@@ -5,7 +5,7 @@
 ![Audio](https://img.shields.io/badge/音频-含配音-blue)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-> 🔥 5 部最火风格短剧样片 + 宠物科普样片，包含完整音频、幻灯片与输出视频。
+> 🔥 5 部最火风格短剧样片，包含完整音频、幻灯片与输出视频。
 
 ---
 
@@ -15,7 +15,9 @@
 |------|------|
 | ⚔️ 玄幻风格 | 热门玄幻题材短剧样片 |
 | 🗡️ 战神风格 | 战神归来题材短剧样片 |
-| 🐾 宠物科普 | 萌宠科普教育样片 |
+| 🎭 填充风格 | 剧情补充与扩展样片 |
+| 👑 宫斗风格 | 宫廷争斗题材短剧样片 |
+| 🔄 重生风格 | 重生逆袭题材短剧样片 |
 | 🎤 配音音频 | 完整的 AI 配音音频文件 |
 | 🖼️ 幻灯片 | 分镜设计与视觉参考 |
 | 🎬 输出视频 | 最终渲染的样片视频 |
@@ -45,18 +47,19 @@ drama-samples/
 │   ├── audio/
 │   ├── slides/
 │   └── output/
-├── 03-pet-science/         # 🐾 宠物科普样片
+├── 03-tianchong/           # 🎭 填充风格样片
 │   ├── audio/
 │   ├── slides/
 │   └── output/
-├── 04-xxx/                 # 📌 其他风格样片
+├── 04-gongdou/             # 👑 宫斗风格样片
 │   ├── audio/
 │   ├── slides/
 │   └── output/
-├── 05-xxx/                 # 📌 其他风格样片
+├── 05-chongsheng/          # 🔄 重生风格样片
 │   ├── audio/
 │   ├── slides/
 │   └── output/
+├── .gitignore
 └── README.md
 ```
 
@@ -83,11 +86,9 @@ open 01-xuanhuan/slides/
 
 ## 📸 截图
 
-<!-- 请在此处添加样片截图 -->
-
-| 玄幻样片 | 战神样片 | 宠物科普 |
+| 玄幻样片 | 战神样片 | 填充样片 |
 |----------|----------|----------|
-| ![玄幻](screenshots/xuanhuan.png) | ![战神](screenshots/zhanshen.png) | ![宠物](screenshots/pet.png) |
+| ![玄幻](screenshots/xuanhuan.png) | ![战神](screenshots/zhanshen.png) | ![填充](screenshots/tianchong.png) |
 
 ---
 
